@@ -1,0 +1,20 @@
+{
+  "imports": {
+    "types/": "./src/types/",
+    "sources/": "./src/sources/",
+    "scraper/": "./src/scraper/",
+    "providers/": "./src/scraper/providers/",
+    "util/": "./src/util/",
+    "data/": "./src/data/",
+    "api/": "./src/api/",
+    "validators/": "./src/api/validators/",
+    "mailman/": "./src/mailman/",
+    "cheerio/": "https://deno.land/x/cheerio@1.0.4/",
+    "std/": "https://deno.land/std@0.103.0/",
+    "html_entities/": "https://deno.land/x/html_entities@v1.0/",
+    "mongodb/": "https://deno.land/x/mongo@v0.23.1/",
+    "dotenv/": "https://deno.land/x/dotenv@v3.0.0/",
+    "luxon/": "https://raw.githubusercontent.com/ipmanlk/deno-luxon/master/",
+    "oak/": "https://deno.land/x/oak@v8.0.0/"
+  }
+}
